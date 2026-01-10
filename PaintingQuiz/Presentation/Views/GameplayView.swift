@@ -125,10 +125,10 @@ struct GameplayView: View {
                                     .frame(width: 37, height: 20)
                                 
                                 VStack {
-                                    Text(nameImageTop.uppercased())
-                                        .font(Font.custom("K2D-Italic", size: 32))
-                                        .underline()
-                                    
+//                                    Text(nameImageTop.uppercased())
+//                                        .font(Font.custom("K2D-Italic", size: 32))
+//                                        .underline()
+//                                    
                                     Text(nameImageTop.uppercased())
                                         .font(.system(size: 32))
                                         .underline()
