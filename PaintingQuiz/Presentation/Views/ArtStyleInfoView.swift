@@ -63,6 +63,5 @@ struct ArtStyleInfoView: View {
     ArtStyleInfoView(
         artStyleName: "Impressionism",
         infoArtStyle: "Impressionism is a style of painting that usually focuses on working outdoors. Painting in this direction is intended to convey the master's sense of light. The key characteristics of Impressionism include: thin, relatively small, barely visible strokes; accurately conveyed changes in lighting; open composition; the presence of some movement; and an unusual vision of objects."
-//        image: "Realism 1"
     )
 }

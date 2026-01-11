@@ -172,7 +172,7 @@ struct SlideToStartButton: View {
                     Spacer()
                     Text("SLIDE TO START")
                         .font(.title2)
-                        .foregroundStyle(Color.white)
+                        .foregroundStyle(Color.yellow)
                         .opacity(1 - Double(offset / (geometry.size.width - buttonSize - 24)))
                     Spacer()
                 }
